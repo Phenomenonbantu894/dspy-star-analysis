@@ -191,9 +191,9 @@ If you use this code or methodology in your research:
 ```bibtex
 @misc{dspy_star_analysis_2025,
   title={Investigating GitHub Star Inflation: A Statistical Analysis of DSPy},
-  author={[Your Name]},
+  author={ProbioticFarmer},
   year={2025},
-  url={https://github.com/[your-repo]/dspy-star-analysis}
+  url={https://github.com/ProbioticFarmer/dspy-star-analysis}
 }
 ```
 
@@ -209,7 +209,9 @@ This code is provided for research and educational purposes.
 
 ## Contact
 
-Questions? Open an issue on GitHub or contact [your email]
+Questions?
+- Open an issue on [GitHub](https://github.com/ProbioticFarmer/dspy-star-analysis/issues)
+- X: [@ProbioticFarmer](https://x.com/ProbioticFarmer)
 
 ---
 
